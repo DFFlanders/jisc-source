@@ -1,4 +1,4 @@
-#summary list of reports written as documentation for the project
+#summary list of JISC reports written as documentation for the project
 #labels archived
 
 = Introduction =
