@@ -9,7 +9,7 @@ This page lists the reports written for JISC during the project to document the 
 
 Reports are listed in reverse chronological order (the most recently written is first):
   * Completion Report written April 2009 (including final budget).
-  * Final Report written in March 2009 (including Executive Summary)
+  * [http://docs.google.com/Doc?id=dfccf5n6_3fb6fz2dj Final Report] written in March 2009 (including Executive Summary) <- executive summary is worth reading if you are a manager or looking for a high level view of what we were trying to accomplish for the UK HE/FE sector.
   * [http://jisc-source.googlecode.com/files/workpackagesGannt_JISC_SOURCE.PDF Progress Report: Workpackages] written in June 2007
   * [http://jisc-source.googlecode.com/files/projectPlan_JISC-SOURCE.PDF Project Plan] written in January 2007
   * [http://jisc-source.googlecode.com/files/projectBid_SOURCE-JISC.PDF Project Bid] written in August 2006
