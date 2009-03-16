@@ -10,6 +10,8 @@ This page lists the reports written for JISC during the project to document the 
 Reports are listed in reverse chronological order (the most recently written is first):
   * Completion Report written April 2009 (including final budget).
   * Final Report written in March 2009 (including Executive Summary)
-  * Progress Report.... etc.
+  * Progress Report: Workpackage update.... etc.
+  * Project Plan written in January 2007
+  * [http://jisc-source.googlecode.com/files/projectBid_SOURCE-JISC.PDF Project Bid] written in August 2006
 
 @Jeff: if the reports from this page http://www.source.bbk.ac.uk/reports/ could be moved to this list, including downloading/uploading all content to the downloads section on this site (including the html pages from the website as a archived zip file (or whatever you think best)?  I will be shutting down the old source.bbk.ac.uk site all together, once we have everything migrated.  Best, DFF
