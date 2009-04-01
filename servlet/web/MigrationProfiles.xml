@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profiles>
+	<profile>
+		<displayName>Profile 1</displayName>
+	</profile>
+	<profile>
+		<displayName>Profile 2</displayName>
+	</profile>
+	<profile>
+		<displayName>Profile 3</displayName>
+	</profile>
+</profiles>		
