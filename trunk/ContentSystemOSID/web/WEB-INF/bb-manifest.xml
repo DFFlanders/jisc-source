@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<manifest>
+    <plugin>
+        <name value= "Content System OSID Support"/>
+        <handle value= "cs-osid"/>
+        <description value= "This plugin creates facilitates searching and downloading from the Content System."/>
+        <version value= "1.0.0"/>
+        <requires>
+            <bbversion value="6.0.0"/>
+        </requires>
+        <vendor>
+            <id value="bb"/>
+            <name value="Birkbeck College Library"/>
+            <url value="http://www.source.bbk.ac.uk/" />
+            <description value="Birkbeck College SOURCE Project" />
+        </vendor>
+        <http-actions>
+            <config value="admin/config.jsp"/>
+            <remove value="admin/remove.jsp"/>
+        </http-actions>
+        <application-defs>
+            <application handle="csreports" type="system" use-ssl="false" name="Content System OSID Support" can-allow-guest="true" small-icon="" large-icon="">
+            <description lang="en_US">Content System OSID Support</description>
+            <links>
+                <link>
+                <type value="system_tool"/>
+                <name value="Content System OSID Support"/>
+                <url value="reports/hello.jsp" />
+                <description value="test" />
+                <icons>
+                    <listitem value="images/link-logo.gif"/>
+                </icons>
+                </link>
+            </links>
+            </application>
+        </application-defs>
+        <permissions>            
+            <permission type="java.lang.RuntimePermission" name="db.connection.*" /> 
+            <permission type="attribute" name="user.authinfo" actions="get,set" /> 
+            <permission type="attribute" name="user.personalinfo" actions="get,set" /> 
+            <permission type="persist" name="user" actions="create,modify,delete" /> 
+            <permission type="persist" name="userrole" actions="create,modify,delete" /> 
+            <permission type="persist" name="course" actions="create,modify,delete" /> 
+			<permission type="java.io.FilePermission" actions="read,write" name="&amp;lt;&amp;lt;ALL FILES&amp;gt;&amp;gt;" />
+        </permissions>
+    </plugin>
+</manifest>
